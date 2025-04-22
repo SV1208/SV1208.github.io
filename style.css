@@ -95,18 +95,6 @@ li {
   margin-bottom: 2rem;
 }
 
-/* Profile image styling */
-.profile-image {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid #0ff;
-  box-shadow: 0 0 10px #0ff5;
-  background-color: #111;
-  margin-bottom: 1rem;
-}
-
 /* Heading text alignment */
 .profile-text {
   text-align: center;
